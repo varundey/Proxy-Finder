@@ -6,7 +6,7 @@ Check for open proxy IP for SRM Hostel i.e. internet before 6.00!!!
 **172.16.0.0 - 172.16.0.100**
 
 ``
-sh proxy.sh
+bash proxy.sh
 ``
 
 ###OR
@@ -14,7 +14,7 @@ sh proxy.sh
 **172.16.0.X - 172.16.100.X  [X = 0 - 100]**
 
 ``
-sh proxyMT.sh
+bash proxyMT.sh
 ``
 
 ##proxyMT.sh
